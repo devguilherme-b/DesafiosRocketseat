@@ -18,8 +18,6 @@ Os desafios deste repositório fazem parte da Formação em C# oferecida pela Ro
 
 - C# (CSharp)
 - .NET
-- ASP.NET (quando aplicável)
-- Banco de Dados SQL Server (quando necessário)
 
 ## Como Utilizar
 
