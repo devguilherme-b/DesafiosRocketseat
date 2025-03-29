@@ -6,6 +6,7 @@ Este repositório contém a resolução dos desafios da Rocketseat, que são fei
 
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Aprendizado](#aprendizado)
 - [Como Utilizar](#como-utilizar)
 - [Desafios](#desafios)
 - [Contato](#contato)
@@ -18,6 +19,17 @@ Os desafios deste repositório fazem parte da Formação em C# oferecida pela Ro
 
 - C# (CSharp)
 - .NET
+
+## Aprendizado
+
+Apliquei conceitos fundamentais da linguagem em exercícios práticos, como:
+
+✅ Leitura de entrada do usuário com Console.ReadLine()
+✅ Manipulação de strings e concatenação de nomes
+✅ Operações matemáticas básicas com double
+✅ Contagem de caracteres ignorando espaços
+✅ Validação de placas no formato brasileiro
+✅ Exibição de datas em diferentes formatos
 
 ## Como Utilizar
 
