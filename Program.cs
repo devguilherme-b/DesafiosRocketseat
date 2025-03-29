@@ -5,19 +5,14 @@ public class Program
     public static void Main()
     {
         Basico basico = new Basico();
-
         // 1° e 2° Desafio aqui:
-        //basico.ImprimirNome();
-
+        basico.ImprimirNome();
         // 3° Desafio aqui:
-        // ExecutaOperacoes();
-
+        ExecutaOperacoes();
         // 4° Desafio
-        // basico.ContarCacteres();
-        
+        basico.ContarCacteres();
         // 5° Desafio
-        // basico.AnalisarPlaca();
-
+        basico.AnalisarPlaca();
         // 6° Desafio
         basico.ExibirDataHora();
     }
@@ -30,5 +25,4 @@ public class Program
         matematica.Multiplicacao();
         matematica.Media();
     }
-
 }
