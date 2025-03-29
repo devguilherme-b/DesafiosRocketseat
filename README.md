@@ -24,12 +24,12 @@ Os desafios deste repositório fazem parte da Formação em C# oferecida pela Ro
 
 Apliquei conceitos fundamentais da linguagem em exercícios práticos, como:
 
-✅ Leitura de entrada do usuário com Console.ReadLine()
-✅ Manipulação de strings e concatenação de nomes
-✅ Operações matemáticas básicas com double
-✅ Contagem de caracteres ignorando espaços
-✅ Validação de placas no formato brasileiro
-✅ Exibição de datas em diferentes formatos
+✅ Leitura de entrada do usuário com Console.ReadLine() <br>
+✅ Manipulação de strings e concatenação de nomes <br>
+✅ Operações matemáticas básicas com double <br>
+✅ Contagem de caracteres ignorando espaços <br>
+✅ Validação de placas no formato brasileiro <br>
+✅ Exibição de datas em diferentes formatos <br>
 
 ## Como Utilizar
 
