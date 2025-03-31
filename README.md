@@ -48,7 +48,7 @@ Para rodar os desafios localmente, siga os passos abaixo:
 
 ## Desafios
 
-Cada desafio está organizado por módulos. Basta acessar o diretório correspondente para visualizar os arquivos e códigos.
+Cada desafio está organizado em funções na classe "Básico", ou seja, basta acessar a classe para visualizar os códigos.
 
 ## Contato
 
